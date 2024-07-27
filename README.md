@@ -35,18 +35,10 @@ The `DegenToken` smart contract is an ERC20 token contract that supports basic t
 
 ## Setup and Deployment
 
-1. **Install Dependencies**:
-   Ensure you have OpenZeppelin Contracts installed. You can install it using npm:
-   ```bash
-   npm install @openzeppelin/contracts
-   ```
-
-2. **Deploying**:
+1. **Deploying**:
    Deploy the contract using remix and use `Injected Provider - Metamask` for your environment.
 
-## Testing
-
-For testing purposes, you can use the Avalanche Fuji Testnet. Add AVAX to your address using the following testnet faucets:
-
-- [Chainlink Fuji Faucet](https://faucets.chain.link/fuji)
-- [Core Testnet Faucet](https://core.app/tools/testnet-faucet/?subnet=c&token=c)
+2. **Testing**
+   For testing purposes, you can use the Avalanche Fuji Testnet. Add AVAX to your address using the following testnet faucets:
+   - [Chainlink Fuji Faucet](https://faucets.chain.link/fuji)
+   - [Core Testnet Faucet](https://core.app/tools/testnet-faucet/?subnet=c&token=c)
